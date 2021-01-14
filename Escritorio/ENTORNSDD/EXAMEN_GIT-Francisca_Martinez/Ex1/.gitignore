@@ -1,0 +1,6 @@
+*.class
+*.jar
+!MainProgram.jar
+*.md
+!src/*.md
+**/old/*.txt
